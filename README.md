@@ -2,6 +2,7 @@
 
 This repository demonstrates the inference and post-processing pipeline
 I built for the Stanford RNA 3D Folding Kaggle Code Competition.
+(https://www.kaggle.com/competitions/stanford-rna-3d-folding)
 
 The project focuses on:
 - orchestrating sequence-to-structure inference
